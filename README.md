@@ -59,4 +59,4 @@ Here is a list of format codes you can use in format strings for `Hiatus` and `D
  * `%1r`: the release date of the episode before the hiatus (only in `Hiatus` objects).
  * `%2n`: the release date of the episode that ended the hiatus (if it does not exist it is replaced with "sometime in the future") (only in `Hiatus` objects).
 ## Help.
-If something's not working correctly, feel free to open an issue. If it is relatively minor, you can just message me on Discord (@EmuMan#2495).
+If something's not working correctly, feel free to open an issue. If it is relatively minor, you can just message me on Discord (`@EmuMan#2495`).
