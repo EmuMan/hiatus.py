@@ -23,8 +23,8 @@ hiatus_list = [
     [['Kevin Party', '11/10/2017'], ['Lars of the Stars', '01/05/2018']],
     [['Jungle Moon', '01/05/2018'], ['Your Mother and Mine', '03/26/2018']],
     [['A Single Pale Rose', '05/07/2018'], ["Now We're Only Falling Apart", '07/02/2018']],
-    [['Reunited', '07/06/2018'], ['Legs From Here to Homeworld', '07/21/2018 15:30']],
-    [['Legs From Here to Homeworld', '07/21/2018 15:30']]
+    [['Reunited', '07/06/2018'], ['Legs From Here to Homeworld', '07/22/2018 15:30']],
+    [['Legs From Here to Homeworld', '07/22/2018 15:30']]
 ]
 
 def ordinal(n):
