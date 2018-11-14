@@ -143,7 +143,7 @@ class Hiatus:
         else:
             return self.format("%d %D in between %1n and %2n")
 
-    def format(self, format='%f in between %e1 and %e2'):
+    def format(self, format='%f in between %1n and %2n'):
         """Turns the hiatus into a string with a supplied format (see README).
         """
         result = format
